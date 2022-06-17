@@ -26,6 +26,7 @@ main{
 				background: hsl(248, 32%, 49%);
 				color: whitesmoke;
 				margin:20px ;
+                                margin-right:100px;
 				padding: 10px;
 				border-radius:7px ;
 				border-bottom:5px solid #C75C63;
@@ -36,6 +37,7 @@ main{
 				background: white;
 				padding: 10px;
 				margin: 20px;
+                                margin-right:100px;
 				border-radius:7px ;
 				border-bottom:5px solid #C75C63;
 }
