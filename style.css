@@ -83,7 +83,6 @@ button{
 				color: grey;
 				font-size:10px ;
 				text-align:center;
-				margin-left:50px ;
 				margin-bottom: 10px ;				
 			
 }
@@ -128,7 +127,9 @@ h1{
 
 @media screen and (max-width:375px){
 		main{
-			         width: 100%;
+			         width: 50%;
                                  Flex-direction:column;
-		}		
+		}	
+               .p{
+}	                         Width:350px;
 }
