@@ -129,6 +129,7 @@ h1{
 		main{
 			         width: 50%;
                                  Flex-direction:column;
+                                 align-items:center;
 		}	
              #white, h1, .p{
                                  text-align:center;
@@ -138,5 +139,8 @@ h1{
                                  margin:20px;
                                  margin-left:50px; 
    
+}
+               input {
+                                 width:250px;
 }	                        
 }
