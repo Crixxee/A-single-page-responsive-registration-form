@@ -130,11 +130,13 @@ h1{
 			         width: 50%;
                                  Flex-direction:column;
 		}	
-               .p{
-                                 width:350px;
+             #white, h1, .p{
+                                 text-align:center;
+                                 width:250px;
 }
                #left-top, #left-bottom{ 
                                  margin:20px;
-                                 margin-left:50px;    
+                                 margin-left:50px; 
+   
 }	                        
 }
