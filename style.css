@@ -131,6 +131,8 @@ h1{
                                  Flex-direction:column;
 		}	
                .p{
-                                 Width:350px;
+                                 width:300px;
+}
+               #left-top, #left-bottom{ margin-right: 20px;
 }	                        
 }
