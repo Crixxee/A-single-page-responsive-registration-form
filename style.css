@@ -133,6 +133,8 @@ h1{
                .p{
                                  width:300px;
 }
-               #left-top, #left-bottom{ margin-right: 20px;
+               #left-top, #left-bottom{ 
+                                 margin-right: 20px;
+                                 margin-left:50px;    
 }	                        
 }
