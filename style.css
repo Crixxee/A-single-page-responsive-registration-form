@@ -129,18 +129,15 @@ h1{
 		main{
 			         width: 50%;
                                  Flex-direction:column;
-                                 align-items:center;
+                                 align-items:right;
 		}	
              #white, h1, .p{
                                  text-align:center;
-                                 width:250px;
+                                 width:350px;
 }
                #left-top, #left-bottom{ 
                                  margin:20px;
                                  margin-left:50px; 
    
-}
-               input {
-                                 width:250px;
 }	                        
 }
