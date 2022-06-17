@@ -131,10 +131,10 @@ h1{
                                  Flex-direction:column;
 		}	
                .p{
-                                 width:300px;
+                                 width:350px;
 }
                #left-top, #left-bottom{ 
-                                 margin-right: 20px;
+                                 margin:20px;
                                  margin-left:50px;    
 }	                        
 }
