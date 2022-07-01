@@ -125,7 +125,7 @@ h1{
 }
 
 @media screen and (max-width:375px){
-		
+	
 		body {
 						background:url("bg-intro-mobile.png") ;
 						background-color:  #FF9093;
@@ -134,14 +134,14 @@ h1{
 		main{
 						display:flex;
 						flex-direction:column;
-						width: 100%;
+						width: 700px;
 						margin-right:50px ;
 						align-items:center;
 					
 		}		
 		#white{
 						text-align:center;
-						font-weight:300px;
+						font-weight:400px;
 		} 
 		
 		#small{
